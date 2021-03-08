@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 print("Hello world;")
 print("Hello country;")
+print("Hello friend;")
+print("Glad to see you;")
+
